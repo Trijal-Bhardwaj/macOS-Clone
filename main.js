@@ -77,7 +77,7 @@ let divScreenContainer = document.querySelector('.screenContainer');
                         </div>
                         <div class="lpApps-container">
                             <div class="lpApps-icon">
-                                <img src="./images/Setting.png" alt="Setting">
+                                <img src="./images/Setting.png" alt="Settings">
                             </div>
                             <div class="launchpad-icon-Text">
                                 Settings
