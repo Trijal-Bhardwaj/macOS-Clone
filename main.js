@@ -77,7 +77,7 @@ let divScreenContainer = document.querySelector('.screenContainer');
                         </div>
                         <div class="lpApps-container">
                             <div class="lpApps-icon">
-                                <img src="./images/setting.png" alt="Setting">
+                                <img src="./images/Setting.png" alt="Setting">
                             </div>
                             <div class="launchpad-icon-Text">
                                 Settings
@@ -93,7 +93,7 @@ let divScreenContainer = document.querySelector('.screenContainer');
                         </div>
                         <div class="lpApps-container">
                             <div class="lpApps-icon">
-                                <img src="./images/jira.png" alt="Jira">
+                                <img src="./images/Jira.png" alt="Jira">
                             </div>
                             <div class="launchpad-icon-Text">
                                 Jira
