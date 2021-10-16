@@ -1,6 +1,6 @@
 # macOS Clone <br/>
 
-## [Site is Live At](https://macos-c06n1td5e-trijalbhardwaj.vercel.app/) : <br/> https://macos-c06n1td5e-trijalbhardwaj.vercel.app/ <br/>
+## [Site is Live At](https://macos-trijalbhardwaj.vercel.app/) : <br/> https://macos-trijalbhardwaj.vercel.app/ <br/>
 
 ## [Demo Working Video of Project](https://www.youtube.com) : <br/> https://www.youtube.com <br/>
 
