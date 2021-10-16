@@ -122,7 +122,7 @@ function linkedIn(currDockIcon) {
                                     Trijal Bhardwaj
                                 </div>
                                 <div class="inner-profileView-content-bioText">
-                                CSE'23@MAIT | 4⭐ (1830) @CodeChef | Web Development Intern @TheSparksFoundation , @LGM | <br>Teaching Assistant @PepCoding | Contributor @LGMSoC'21 , @GWOC'21 | DSAUplift'21 , Cod{On}Fest |
+                                CSE'23@MAIT | 4⭐ (1948) @CodeChef | Web Development Intern @TheSparksFoundation , @LetsGrowMore | <br>Teaching Assistant Intern @PepCoding | Mentor @GWOC'21 & @LGMSoC'21 | Mentee @DSAUplift'21 & @Cod{On}Fest |
                                 </div>
                                 <div class="inner-profileView-content-address">
                                 New Delhi, Delhi, India . <span>Contact Info</span>
