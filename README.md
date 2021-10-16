@@ -1,8 +1,8 @@
 # macOS Clone <br/>
 
-## [Site is Live At](https://covicure-app.herokuapp.com/) : <br/> https://covicure-app.herokuapp.com/ <br/>
+## [Site is Live At](https://macos-c06n1td5e-trijalbhardwaj.vercel.app/) : <br/> https://macos-c06n1td5e-trijalbhardwaj.vercel.app/ <br/>
 
-## [Demo Working Video of Project](https://www.youtube.com/watch?v=bgkLg3my7gc) : <br/> https://www.youtube.com/watch?v=bgkLg3my7gc <br/>
+## [Demo Working Video of Project](https://www.youtube.com) : <br/> https://www.youtube.com <br/>
 
 ## Tech Stack: HTML, CSS, JavaScript (DOM), CanvasAPI, IndexedDB, React <br/>
 
